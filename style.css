@@ -1,0 +1,18 @@
+#title{
+    color:purple;
+}
+.blue {
+    color:cadetblue;
+  }
+h1 {
+    color:red;
+  }
+
+.border-blue {
+    border: 2px solid cadetblue;
+    padding: 20px;
+}
+
+div > p {
+    color: red;
+}
